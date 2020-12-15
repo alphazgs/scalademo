@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="397388f9-2c33-49c4-9e5f-a95386de927a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparksqldemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Test.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -103,10 +103,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="sc" value="4" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Scala" value="4" />
         </counts>
       </usages-collector>
@@ -138,8 +140,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Test.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="216">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -181,6 +183,8 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -235,7 +239,6 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/Note.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/note/Note.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/OptionDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Test.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/note" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Philosophical.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Frog.scala" />
@@ -245,6 +248,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit16/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Test.sc" />
       </list>
     </option>
   </component>
@@ -318,7 +322,7 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="unit16" type="462c0819:PsiDirectoryNode" />
+              <item name="unit15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -330,7 +334,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607994923916" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607997137849" />
     <property name="last_opened_file_path" value="E:/flinkdemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -478,12 +482,27 @@
       <workItem from="1607908651252" duration="1000" />
       <workItem from="1607908660449" duration="333000" />
       <workItem from="1607909974293" duration="5129000" />
-      <workItem from="1607995098958" duration="677000" />
+      <workItem from="1607995098958" duration="1183000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1607996698405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607996698405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1607996979607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607996979607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="328245000" />
+    <option name="totallyTimeSpent" value="328751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -504,7 +523,7 @@
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5314499" side_tool="true" weight="0.32827735" />
@@ -558,6 +577,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -842,13 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/OptionDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Expr.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -859,10 +875,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/OptionDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Test.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="216">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
