@@ -51,8 +51,9 @@ abstract class Element {
 }
 
 
+//工厂对象
 object Element {
-  private class ArrayElement(val contents: Array[String]) extends Element {}
+  private class ArrayElement(val contents: Array[String]) extends Element {} //参数化字段
 
   private class LineElement(s: String) extends Element {
     val contents = Array(s)

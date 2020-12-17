@@ -2,93 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="397388f9-2c33-49c4-9e5f-a95386de927a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit04/ChecksumAccumulator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit08/FunctionDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit16/ListTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/test/ConnectorTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/test/ConnectorTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit06/Rational.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit06/Rational.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit06/test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit06/test.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit08/test.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit09/FileMatcher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit09/FileMatcher.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/AbsExpr.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/AbsExpr.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Expr.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Expr.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/OptionDemo.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/OptionTest.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit16/Demo.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit16/ListDemo.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/test/ConnectorTest$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/test/ConnectorTest$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/test/ConnectorTest$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/test/ConnectorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/test/ConnectorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit06/Rational.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit06/Rational.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit06/test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit08/test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit08/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$containsNeg$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$containsNeg$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$containsNeg1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$containsNeg1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$filesMatching$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$filesMatching$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$filesMatching$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$filesMatching$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/test$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$$anonfun$beside$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$$anonfun$beside$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$$anonfun$beside$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$$anonfun$beside$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$ArrayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$ArrayElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$LineElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$LineElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$UniformElement$$anonfun$contents$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$UniformElement$$anonfun$contents$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$UniformElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$UniformElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Spiral$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Spiral$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Test$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit11/Dollars$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit11/Dollars$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit11/Dollars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit11/Dollars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit11/test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit11/test$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/BasicIntQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/BasicIntQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Doubling$class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Doubling$class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Doubling.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Doubling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Filtering$class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Filtering$class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Filtering.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Filtering.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Frog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Frog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/HasLegs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/HasLegs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Incrementing$class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Incrementing$class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Incrementing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Incrementing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/IntQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/IntQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/MyInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/MyInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Philosophical$class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Philosophical$class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Philosophical.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/Philosophical.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo1$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo2$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo2$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo2$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit12/TraitDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit14/test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit14/test$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/AbsExpr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/AbsExpr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/BinOp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/BinOp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/BinOp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/BinOp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Number$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Number$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/OptionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Test$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Test.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/UnOp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/UnOp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/UnOp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/UnOp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Var$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Var$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Var.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit15/Var.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit16/Demo.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -176,26 +93,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="java" value="1" />
           <entry key="sc" value="5" />
-          <entry key="scala" value="29" />
+          <entry key="scala" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Scala" value="34" />
+          <entry key="JAVA" value="1" />
+          <entry key="Scala" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="sc" value="374" />
-          <entry key="scala" value="3035" />
-          <entry key="txt" value="5" />
+          <entry key="scala" value="3523" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Scala" value="3409" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Scala" value="3897" />
         </counts>
       </usages-collector>
     </session>
@@ -203,64 +122,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit04/ChecksumAccumulator.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit06/Rational.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit08/FunctionDemo.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit09/FileMatcher.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-702">
-              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Spiral.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-348">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="408">
+              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/test.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -334,10 +217,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/ArrayElement.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/UniformElement.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/LineElement.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Spiral.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/test.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/zgs/java/Test_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zgs/java/CompareTest.java" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/IntQueue.scala" />
@@ -375,6 +256,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit08/FunctionDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit09/FileMatcher.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala" />
       </list>
     </option>
   </component>
@@ -498,6 +381,16 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zgs" type="462c0819:PsiDirectoryNode" />
+              <item name="unit11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zgs" type="462c0819:PsiDirectoryNode" />
               <item name="unit15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -520,7 +413,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608196598220" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608197817749" />
     <property name="last_opened_file_path" value="E:/flinkdemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -664,7 +557,7 @@
       <workItem from="1607908651252" duration="1000" />
       <workItem from="1607908660449" duration="333000" />
       <workItem from="1607909974293" duration="5129000" />
-      <workItem from="1607995098958" duration="21284000" />
+      <workItem from="1607995098958" duration="22369000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607996698405</created>
@@ -694,11 +587,18 @@
       <option name="project" value="LOCAL" />
       <updated>1607998289000</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day2">
+      <created>1608196640263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608196640263</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="348852000" />
+    <option name="totallyTimeSpent" value="349937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -776,16 +676,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Predef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="100" column="31" lean-forward="true" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/immutable/Map.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -876,20 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="148" column="29" lean-forward="true" selection-start-line="148" selection-start-column="29" selection-end-line="148" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1065,24 +945,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Spiral.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-348">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="648">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1251">
+          <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
