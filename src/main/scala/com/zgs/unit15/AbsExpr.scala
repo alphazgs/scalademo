@@ -2,22 +2,23 @@ package com.zgs.unit15
 
 abstract class AbsExpr
 
-case class Var(name: String) extends AbsExpr //样例类:(1)会添加一个跟类同名的工厂方法,不用new就能初始化对象(2)参数列表中的参数都隐式的获得了一个val前缀，会被当做字段处理。
-case class Number(num: Double) extends AbsExpr
+case class AbsVar(name: String) extends AbsExpr //样例类:(1)会添加一个跟类同名的工厂方法,不用new就能初始化对象(2)参数列表中的参数都隐式的获得了一个val前缀，会被当做字段处理。
+case class AbsNumber(num: Double) extends AbsExpr
 
-//(3)编译器会自然的实现toString，hashCode和equals方法(4)编译器还会添加一个copy方法用于制作修改过的拷贝
-case class UnOp(operator: String, arg: AbsExpr) extends AbsExpr
+//(3)编译器会自然的实现toString，hashCode和equals方法
+// (4)编译器还会添加一个copy方法用于制作修改过的拷贝
+case class AbsUnOp(operator: String, arg: AbsExpr) extends AbsExpr
 
-case class BinOp(operator: String,
+case class AbsBinOp(operator: String,
                  left: AbsExpr, right: AbsExpr) extends AbsExpr
 
 
-object Test {
+object AbsTest {
 
 
   //通配模式
   def simplifyTop1(expr: Any): Unit = expr match {
-    case BinOp(_, _, _) => println(expr + " is a binary operation") //不关心局部参数，只检查是否同一对象
+    case AbsBinOp(_, _, _) => println(expr + " is a binary operation") //不关心局部参数，只检查是否同一对象
     case _ => println("default") //通配
   }
 
@@ -25,14 +26,14 @@ object Test {
   def describe(x: Any):Unit = x match {
     case 5 => println("five")
     case true => println("truth")
-    case BinOp("+", Var("a"), Var("+")) => println("truth match") //定义了确定的参数后，就会做深度的匹配
-    //    case BinOp("+",Var("a"),Var("-")) => println("truth match")
-    case BinOp(_, _, _) => println(x + " is a binary operation") //如果用占位符表示，则不匹配局部参数
+    case AbsBinOp("+", AbsVar("a"), AbsVar("+")) => println("truth match") //定义了确定的参数后，就会做深度的匹配
+    //    case AbsBinOp("+",AbsVar("a"),AbsVar("-")) => println("truth match")
+    case AbsBinOp(_, _, _) => println(x + " is a binary operation") //如果用占位符表示，则不匹配局部参数
     case _ => println("default")
   }
 
   //变量模式
-  def variMatch(expr: Any, somethingElse: Int = 88):Unit = {
+  def AbsVariMatch(expr: Any, somethingElse: Int = 88):Unit = {
     expr match {
       case 0 => println("zero")
       case somethingElse => println("not zero")
@@ -41,7 +42,7 @@ object Test {
 
   //构造方法模式
   def deepMatch(expr: Any):Unit = expr match {
-    case BinOp("+", e, Number(0)) => println("a deep match " + e)
+    case AbsBinOp("+", e, AbsNumber(0)) => println("a deep match " + e)
     case _ => println("else mismatch")
   }
 
@@ -68,27 +69,27 @@ object Test {
   }
 
   //变量绑定
-  def varittMatch(expr:Any):Unit=expr match {
-    case UnOp("abs",e @ UnOp("abs",_)) => println(e)//e为UnOp("abs",_)实例化后的对象
+  def AbsVarittMatch(expr:Any):Unit=expr match {
+    case AbsUnOp("abs",e @ AbsUnOp("abs",_)) => println(e)//e为AbsUnOp("abs",_)实例化后的对象
     case _ => println("else")
   }
 
   //模式守卫
 //  def simplyfyAdd(e:Any) = e match {
-//    case BinOp("+",x,x) => BinOp("*",x,Number(2)) //scala 要求模式是线性的，同一个模式变量只能出现一次
+//    case AbsBinOp("+",x,x) => AbsBinOp("*",x,AbsNumber(2)) //scala 要求模式是线性的，同一个模式变量只能出现一次
 //  }
-  implicit def int2Var(x: Int):Var = Var(x.toString)
+  implicit def int2AbsVar(x: Int):AbsVar = AbsVar(x.toString)
 
-  def simplifyAdd(e:Any):BinOp = e match {
-  case BinOp("+",x,y) if x == y => BinOp("*",x,x)
-  case _ => BinOp("*",4,Number(4))
+  def simplifyAdd(e:Any):AbsBinOp = e match {
+  case AbsBinOp("+",x,y) if x == y => AbsBinOp("*",x,x)
+  case _ => AbsBinOp("*",4,AbsNumber(4))
 }
   //模式重叠
   def simplifyAll(expr:AbsExpr):AbsExpr = expr match {
-    case UnOp("-",UnOp("-",e)) => simplifyAll(e)
-    case BinOp("+",e,Number(0)) => simplifyAll(e)
-    case BinOp("*",e,Number(1)) => simplifyAll(e)
-    case UnOp(op,e) => UnOp(op,simplifyAll(e))
+    case AbsUnOp("-",AbsUnOp("-",e)) => simplifyAll(e)
+    case AbsBinOp("+",e,AbsNumber(0)) => simplifyAll(e)
+    case AbsBinOp("*",e,AbsNumber(1)) => simplifyAll(e)
+    case AbsUnOp(op,e) => AbsUnOp(op,simplifyAll(e))
     case _ => expr
   }
 
@@ -96,17 +97,17 @@ object Test {
 
 
   def main(args: Array[String]): Unit = {
-    simplifyTop1(BinOp("+", Var("a"), Var("-"))) //BinOp(+,Var(a),Var(-)) is a binary operation
+    simplifyTop1(AbsBinOp("+", AbsVar("a"), AbsVar("-"))) //AbsBinOp(+,AbsVar(a),AbsVar(-)) is a binary operation
     simplifyTop1("dwdw") //default
 
     describe(5) //five
     describe(6) //default
-    describe(BinOp("+", Var("a"), Var("-"))) //BinOp(+,Var(a),Var(-)) is a binary operation
+    describe(AbsBinOp("+", AbsVar("a"), AbsVar("-"))) //AbsBinOp(+,AbsVar(a),AbsVar(-)) is a binary operation
 
-    variMatch(88) //not zero
+    AbsVariMatch(88) //not zero
 
-    deepMatch(BinOp("+", Var("wjndjw"), Number(0))) //a deep match Var(wjndjw)  深度匹配会匹配是否同一类型，且会比较给出的参数的相等性，只要给出的参数相等就行
-    deepMatch(BinOp("-", Var("wjndjw"), Number(0))) //else mismatch
+    deepMatch(AbsBinOp("+", AbsVar("wjndjw"), AbsNumber(0))) //a deep match AbsVar(wjndjw)  深度匹配会匹配是否同一类型，且会比较给出的参数的相等性，只要给出的参数相等就行
+    deepMatch(AbsBinOp("-", AbsVar("wjndjw"), AbsNumber(0))) //else mismatch
     deepMatch("eee")
 
     seriesMatch(List(0, 1, 1)) //与构造匹配一致
@@ -120,7 +121,7 @@ object Test {
     typeMatch(Map[Int,Int](3 -> 5))
     typeMatch(Map[Int,String](3->"wdbewj"))
 
-    varittMatch(UnOp("abs",UnOp("abs",Var("ff"))))
+    AbsVarittMatch(AbsUnOp("abs",AbsUnOp("abs",AbsVar("ff"))))
 
   }
 

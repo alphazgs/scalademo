@@ -7,5 +7,4 @@ class Test {
 
 object Test {
   def gg() = println("gg")
-
 }

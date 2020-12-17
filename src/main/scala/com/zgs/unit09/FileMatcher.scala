@@ -65,12 +65,14 @@ object FileMatcher {
 
 //  def myAssert(predicate: () => Boolean) = if (assertionsEnabled && !predicate()) throw new AssertionError
   //predicate为传名参数
-  def myAssert(predicate: => Boolean) = if (assertionsEnabled && !predicate) throw new AssertionError
-
+  def myAssert(predicate: => Boolean):Unit = if (assertionsEnabled && !predicate) throw new AssertionError
+  def boolAssert(predicate:Boolean):Unit = if (assertionsEnabled && !predicate) throw new AssertionError
+  //这两种方式都是合法的，但是会有一个显著的区别就是，boolAssert的参数类型为Boolean，在boolAssert(5 > 3)圆括号中的表达式将“先于”对boolAssert的调用被求值。
+  //而myAssert中并不会。
 
   def main(args: Array[String]): Unit = {
     myAssert( 5 > 3)
-
+    boolAssert(5> 3)
   }
 
 
