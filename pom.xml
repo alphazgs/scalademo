@@ -16,59 +16,59 @@
 
 
     <dependencies>
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-core_${scala.version}</artifactId>
-            <version>${spark.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.apache.spark</groupId>-->
+            <!--<artifactId>spark-core_${scala.version}</artifactId>-->
+            <!--<version>${spark.version}</version>-->
+        <!--</dependency>-->
 
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-streaming_${scala.version}</artifactId>
-            <version>${spark.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.apache.spark</groupId>-->
+            <!--<artifactId>spark-streaming_${scala.version}</artifactId>-->
+            <!--<version>${spark.version}</version>-->
+        <!--</dependency>-->
 
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-sql_${scala.version}</artifactId>
-            <version>${spark.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-hive_${scala.version}</artifactId>
-            <version>${spark.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.apache.spark</groupId>-->
+            <!--<artifactId>spark-sql_${scala.version}</artifactId>-->
+            <!--<version>${spark.version}</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>org.apache.spark</groupId>-->
+            <!--<artifactId>spark-hive_${scala.version}</artifactId>-->
+            <!--<version>${spark.version}</version>-->
+        <!--</dependency>-->
 
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-mllib_${scala.version}</artifactId>
-            <version>${spark.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.apache.spark</groupId>-->
+            <!--<artifactId>spark-mllib_${scala.version}</artifactId>-->
+            <!--<version>${spark.version}</version>-->
+        <!--</dependency>-->
 
-        <dependency>
-            <groupId>org.mongodb.spark</groupId>
-            <artifactId>mongo-spark-connector_${scala.version}</artifactId>
-            <version>1.1.0</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.mongodb.spark</groupId>-->
+            <!--<artifactId>mongo-spark-connector_${scala.version}</artifactId>-->
+            <!--<version>1.1.0</version>-->
+        <!--</dependency>-->
 
-        <dependency>
-            <groupId>com.databricks</groupId>
-            <artifactId>spark-csv_${scala.version}</artifactId>
-            <version>1.4.0</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.databricks</groupId>-->
+            <!--<artifactId>spark-csv_${scala.version}</artifactId>-->
+            <!--<version>1.4.0</version>-->
+        <!--</dependency>-->
 
-        <dependency>
-            <groupId>org.apache.parquet</groupId>
-            <artifactId>parquet-avro</artifactId>
-            <version>1.9.0</version> <!-- or latest version -->
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.apache.parquet</groupId>-->
+            <!--<artifactId>parquet-avro</artifactId>-->
+            <!--<version>1.9.0</version> &lt;!&ndash; or latest version &ndash;&gt;-->
+        <!--</dependency>-->
 
 
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-streaming-kafka_${scala.version}</artifactId>
-            <version>1.6.0</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.apache.spark</groupId>-->
+            <!--<artifactId>spark-streaming-kafka_${scala.version}</artifactId>-->
+            <!--<version>1.6.0</version>-->
+        <!--</dependency>-->
 
         <dependency>
             <groupId>mysql</groupId>
