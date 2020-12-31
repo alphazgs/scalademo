@@ -1,6 +1,6 @@
 package com.zgs.unit11
 
-class Dollars(val amount:Int) extends  Any {
+class Dollars(val amount:Int) extends  AnyVal {
   override def toString: String = "$" + amount
 }
 
@@ -12,7 +12,4 @@ class Dollars(val amount:Int) extends  Any {
 都是AnyVal的子类,不同类型之间的转换是通过隐式转换实现的.
 3.Any的另一个子类是AnyRef(类似于java中的object类).
 4.底类型，底部会有两个类，scala.Null 和 scala.Nothing。用来处理一些极端情况。
-
-
-
  */

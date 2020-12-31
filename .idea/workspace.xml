@@ -2,10 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="397388f9-2c33-49c4-9e5f-a95386de927a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zgs/java/JavaSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zgs/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atgg/c2/DataTypeDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atgg/c2/SayHelloActor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/Solution.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/TreeNode.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit19/Queue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit19/Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/AbstractMenber.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/CurrencyZone.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Test.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit21/Demo.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zgs/java/CompareTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/java/CompareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit09/FileMatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$ArrayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$ArrayElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$LineElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$LineElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$UniformElement$$anonfun$contents$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$UniformElement$$anonfun$contents$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$UniformElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element$UniformElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Test$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgs/unit10/Test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,35 +111,41 @@
     <session id="1688944556">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
-          <entry key="sc" value="5" />
-          <entry key="scala" value="32" />
+          <entry key="java" value="7" />
+          <entry key="note" value="2" />
+          <entry key="sc" value="11" />
+          <entry key="scala" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="Scala" value="37" />
+          <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Scala" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="sc" value="374" />
-          <entry key="scala" value="3523" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="285" />
+          <entry key="sc" value="705" />
+          <entry key="scala" value="11259" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Scala" value="3897" />
+          <entry key="JAVA" value="285" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Scala" value="11964" />
         </counts>
       </usages-collector>
     </session>
@@ -122,19 +153,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit20/CurrencyZone.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+            <state relative-caret-position="405">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit21/Demo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="54">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -142,8 +182,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/test.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="351">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/atgg/c2/DataTypeDemo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/atgg/c2/SayHelloActor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -185,10 +243,13 @@
       <find>Var</find>
       <find>BinOp</find>
       <find>:::</find>
+      <find>”</find>
+      <find>from</find>
     </findStrings>
     <replaceStrings>
       <replace>AbsVar</replace>
       <replace>AbsBinOp</replace>
+      <replace>&quot;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -207,28 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/chapter03/CharDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/chapter03/TypeDemo03.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/chapter03/Demo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/chapter03/LazyDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/chapter03/ExceptionDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/chapter03/MemState.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit08/test.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/ArrayElement.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/UniformElement.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/LineElement.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Spiral.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/test.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zgs/java/Test_4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zgs/java/CompareTest.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/IntQueue.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/MyQueue.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/BasicIntQueue.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Doubling.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Incrementing.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Filtering.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/test.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit14/test.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/test.sc" />
@@ -237,7 +276,6 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/note" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Philosophical.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Frog.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Test.sc" />
@@ -258,6 +296,29 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/Solution1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/Test.sc" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zgs/java/Solution.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zgs/java/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zgs/java/JavaSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zgs/java/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/TreeNode.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/Solution.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit19/Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit19/Queue.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Currency.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/AbstractCurrency.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Dollar.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/US.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/AbstractMenber.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Test.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit20/CurrencyZone.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/zgs/unit21/Demo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/atgg/c2/TypeDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/atgg/c2/DataTypeDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/atgg/c2/SayHelloActor.scala" />
       </list>
     </option>
   </component>
@@ -268,10 +329,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -279,8 +340,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -304,14 +366,14 @@
               <item name="scalademo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="scalademo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -319,19 +381,26 @@
               <item name="scalademo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zgs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zgs" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
@@ -340,8 +409,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="unit06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
@@ -350,70 +417,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="unit08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="unit09" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="unit10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="unit11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="unit15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scalademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zgs" type="462c0819:PsiDirectoryNode" />
-              <item name="unit16" type="462c0819:PsiDirectoryNode" />
+              <item name="atgg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608197817749" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608798298308" />
     <property name="last_opened_file_path" value="E:/flinkdemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -439,13 +454,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionDemo">
-    <configuration name="ConnectorTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.zgs.test.ConnectorTest" />
+  <component name="RunManager" selected="Application.SayHelloActorDemo">
+    <configuration name="DataTypeDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atgg.c2.DataTypeDemo" />
       <module name="sparksqldemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zgs.test.*" />
+          <option name="PATTERN" value="com.atgg.c2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -453,12 +468,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.zgs.unit08.FunctionDemo" />
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zgs.unit21.Demo" />
       <module name="sparksqldemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zgs.unit08.*" />
+          <option name="PATTERN" value="com.zgs.unit21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -466,12 +481,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.zgs.unit16.ListTest" />
+    <configuration name="SayHelloActorDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atgg.c2.SayHelloActorDemo" />
       <module name="sparksqldemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zgs.unit16.*" />
+          <option name="PATTERN" value="com.atgg.c2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -479,12 +494,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.zgs.unit06.test" />
+    <configuration name="TraitDemo2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zgs.unit12.TraitDemo2" />
       <module name="sparksqldemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zgs.unit06.*" />
+          <option name="PATTERN" value="com.zgs.unit12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,29 +507,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+    <configuration name="TypeDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atgg.c2.TypeDemo" />
       <module name="sparksqldemo" />
-      <setting name="vmparams4" value="-Djline.terminal=NONE" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="consoleArgs" value="-usejavacp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atgg.c2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Scala Console.Scala Console" />
-      <item itemvalue="Application.ListTest" />
-      <item itemvalue="Application.ConnectorTest" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.FunctionDemo" />
+      <item itemvalue="Application.TraitDemo2" />
+      <item itemvalue="Application.Demo (1)" />
+      <item itemvalue="Application.TypeDemo" />
+      <item itemvalue="Application.DataTypeDemo" />
+      <item itemvalue="Application.SayHelloActorDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionDemo" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.ConnectorTest" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Scala Console.Scala Console" />
+        <item itemvalue="Application.SayHelloActorDemo" />
+        <item itemvalue="Application.DataTypeDemo" />
+        <item itemvalue="Application.TypeDemo" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.TraitDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +576,8 @@
       <workItem from="1607908651252" duration="1000" />
       <workItem from="1607908660449" duration="333000" />
       <workItem from="1607909974293" duration="5129000" />
-      <workItem from="1607995098958" duration="22369000" />
+      <workItem from="1607995098958" duration="46740000" />
+      <workItem from="1608689785479" duration="31071000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607996698405</created>
@@ -594,17 +614,24 @@
       <option name="project" value="LOCAL" />
       <updated>1608196640263</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day2">
+      <created>1608197848400</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608197848400</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349937000" />
+    <option name="totallyTimeSpent" value="405379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14498934" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -614,7 +641,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.46855012" visible="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.46855012" weight="0.31344903" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49840087" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -623,7 +650,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5314499" side_tool="true" weight="0.32827735" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.46588486" weight="0.3253796" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.46588486" weight="0.3373102" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -680,183 +707,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="day2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/immutable/Map.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="96" column="25" lean-forward="true" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/SerialVersionUID.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/GenTraversableLike.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/generic/GenericTraversableTemplate.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/IterableLike.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableLike.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="403" column="12" lean-forward="true" selection-start-line="403" selection-start-column="12" selection-end-line="403" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/LinearSeqOptimized.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit14/test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Filtering.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Doubling.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Incrementing.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/test.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/MyQueue.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/IntQueue.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/BasicIntQueue.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Philosophical.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/Frog.scala" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Unit.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Array.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="516" column="16" selection-start-line="516" selection-start-column="16" selection-end-line="516" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/generic/GenericCompanion.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Option.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="97" column="25" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/MapLike.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="81" column="28" lean-forward="true" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/OptionDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/Expr.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/OptionTest.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit16/ListTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/note/Note.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit04/SingletonObject.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/AbsExpr.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Int.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -868,17 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="269" column="93" lean-forward="true" selection-start-line="269" selection-start-column="93" selection-end-line="269" selection-end-column="93" />
-          <folding>
-            <element signature="e#4933#5338#0" />
-            <element signature="e#4933#5502#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/test/ConnectorTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -886,13 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit04/ChecksumAccumulator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -910,31 +742,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit08/test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit08/test.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit06/test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit06/Rational.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit08/FunctionDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -945,30 +757,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Spiral.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Test.scala" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1251">
@@ -980,10 +769,256 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/test/ConnectorTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/IndexedSeqOptimized.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="73" column="75" lean-forward="true" selection-start-line="73" selection-start-column="75" selection-end-line="73" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zgs/java/Solution.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/Solution1.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/Test.sc" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zgs/java/CompareTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Spiral.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zgs/java/Test_4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zgs/java/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zgs/java/JavaSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zgs/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/TreeNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/LeetCode/Solution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit19/Queue.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Enumeration.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="127" column="24" lean-forward="true" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit19/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit20/AbstractCurrency.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Dollar.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit20/US.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Test.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit20/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit12/TraitDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit20/AbstractMenber.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit15/AbsExpr.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="88" column="14" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit20/CurrencyZone.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="299" column="21" selection-start-line="299" selection-start-column="21" selection-end-line="299" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/note/Note.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit08/FunctionDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit06/Rational.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit04/ChecksumAccumulator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit21/Demo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit14/test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit10/Element.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/atgg/c2/TypeDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/Dollars.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/zgs/unit11/test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/atgg/c2/DataTypeDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/atgg/c2/SayHelloActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
